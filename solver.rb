@@ -1,6 +1,6 @@
 class Solver
   def factorial(number)
-    raise ArgumentError, 'ENTER ONLY POSITIVE NUMBERS' if number.negative?
+    raise ArgumentError, 'Enter only positive numbers' if number.negative?
     return 1 if number.zero?
 
     factorial(number - 1) * number
