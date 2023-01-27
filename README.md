@@ -140,7 +140,6 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Brian Buntu Ludidi**
 
@@ -173,9 +172,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project kindly give a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
