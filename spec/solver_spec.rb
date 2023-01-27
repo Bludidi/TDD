@@ -26,7 +26,7 @@ describe Solver do
   end
 
   context 'When testing a reverse method' do
-    it 'should return olleh when given hello' do
+    it 'should return rotom when given motor' do
       expect(@solver.reverse('motor')).to eql 'rotom'
     end
   end
